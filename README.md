@@ -1,6 +1,8 @@
 # seq2seq-chatbot
 req software and library 
 
+here i'm using some technique to make chatbot better and good
+
 
 scikit-learn
 tensorflow
